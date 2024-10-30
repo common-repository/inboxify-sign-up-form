@@ -1,0 +1,41 @@
+.inboxify-table, .inboxify-table thead, .inboxify-table tbody, .inboxify-table tr, .inboxify-table td, .inboxify-table th {
+    border: 0px;
+}
+
+.inboxify-subscribe h2 {
+    margin-top: 0!important;
+    margin-bottom: 0.5em!important;
+}
+.inboxify-subscribe-form {
+    padding-top: 0!important;
+}
+
+.inboxify-subscribe-form .inboxify-invalid {
+    color: red;
+}
+.inboxify-subscribe-form .inboxify-required {
+    border: 1px dashed red;
+}
+.inboxify-subscribe-form .inboxify-success {
+    color: green;
+}
+.inboxify-subscribe-form select {
+    width: 100%;
+}
+
+.inboxify-form-element #si_image {
+    padding-bottom: 0.33em;    
+}
+.inboxify-form-element .captchaImgRefresh {
+    display: none;
+}
+
+.inboxify-progress .inboxify-submit {
+    cursor: wait;
+}
+
+.inboxify-subscribe-form input[type="radio"] + label, 
+.inboxify-subscribe-form input[type="checkbox"] + label {
+    display: inline-block;
+    margin-right: 1em;
+}

@@ -1,0 +1,25 @@
+@media screen and (min-width: 460px) {
+    .iy-50 {
+        float: left;
+        margin: 0 0 1em 0;
+        width: 50%;
+    }
+
+    .iy-clear {
+        clear: left;
+    }
+}
+
+.bmsortable {
+    border-collapse: collapse;
+    border-spacing: 0px;
+}
+
+.bmsortable tbody td, .bmsortable tbody th {
+    border-bottom: 1px solid #ddd;
+    border-top: 1px solid #ddd;
+}
+
+.bmsortable tr {
+    cursor: move;
+}

@@ -1,0 +1,491 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: inboxify-sign-up-form\n"
+"POT-Creation-Date: 2016-04-06 12:00+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: /media/raid/Home/Workspaces/Workspace/wp-inboxify/"
+"wordpress-latest2/wp-content/plugins/inboxify-sign-up-form\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: src/Inboxify/Wordpress/AdminMenu.php:71
+msgid "Inboxify Sign Up Form for WordPress"
+msgstr "Inboxify Sign Up Form for WordPress"
+
+#: src/Inboxify/Wordpress/AdminMenu.php:72
+msgid "Inboxify Sign Up"
+msgstr "Inboxify Sign Up"
+
+#: src/Inboxify/Wordpress/Assets.php:71
+#, php-format
+msgid "Asset set %s not found."
+msgstr "Asset set %s not found."
+
+#: src/Inboxify/Wordpress/Captcha.php:115
+msgid "No CAPTCHA"
+msgstr "No CAPTCHA"
+
+#: src/Inboxify/Wordpress/Captcha.php:147
+msgid "What code is in the image?"
+msgstr "What code is in the image?"
+
+#: src/Inboxify/Wordpress/Captcha.php:199
+#: src/Inboxify/Wordpress/Captcha.php:223
+msgid ""
+"This question is for testing whether or not you are a human visitor and to "
+"prevent automated spam submissions."
+msgstr ""
+"This question is for testing whether or not you are a human visitor and to "
+"prevent automated spam submissions."
+
+#: src/Inboxify/Wordpress/Captcha.php:201
+msgid "Generating Really Simple CAPTCHA image failed."
+msgstr "Generating Really Simple CAPTCHA image failed."
+
+#: src/Inboxify/Wordpress/Captcha.php:367
+msgid "You must set CAPTCHA plugin before rendering or validating."
+msgstr "You must set CAPTCHA plugin before rendering or validating."
+
+#: src/Inboxify/Wordpress/Countries.php:30
+msgid "Select Country"
+msgstr "Select Country"
+
+#: src/Inboxify/Wordpress/Settings.php:209
+msgid "General settings"
+msgstr "General settings"
+
+#: src/Inboxify/Wordpress/Settings.php:212
+msgid "API endpoint"
+msgstr "API endpoint"
+
+#: src/Inboxify/Wordpress/Settings.php:213
+msgid ""
+"Inboxify API endpoint. Please don't change the URL unless you are "
+"instructed to."
+msgstr ""
+"Inboxify API endpoint. Please don't change the URL unless you are "
+"instructed to."
+
+#: src/Inboxify/Wordpress/Settings.php:215
+msgid "API key"
+msgstr "API key"
+
+#: src/Inboxify/Wordpress/Settings.php:216
+msgid "Insert your Inboxify API key."
+msgstr "Insert your Inboxify API key."
+
+#: src/Inboxify/Wordpress/Settings.php:218
+msgid "API secret"
+msgstr "API secret"
+
+#: src/Inboxify/Wordpress/Settings.php:219
+msgid "Insert your Inboxify API secret."
+msgstr "Insert your Inboxify API secret."
+
+#: src/Inboxify/Wordpress/Settings.php:221
+msgid "Default contact list"
+msgstr "Default contact list"
+
+#: src/Inboxify/Wordpress/Settings.php:222
+msgid "Please select the Inboxify list you want to use with WordPress."
+msgstr "Please select the Inboxify list you want to use with WordPress."
+
+#: src/Inboxify/Wordpress/Settings.php:225
+msgid "Advanced settings"
+msgstr "Advanced settings"
+
+#: src/Inboxify/Wordpress/Settings.php:228
+msgid "CAPTCHA plugin"
+msgstr "CAPTCHA plugin"
+
+#: src/Inboxify/Wordpress/Settings.php:229
+msgid "Please select one of the supported CAPTCHA plugins."
+msgstr "Please select one of the supported CAPTCHA plugins."
+
+#: src/Inboxify/Wordpress/Settings.php:231
+msgid "Supported features"
+msgstr "Supported features"
+
+#: src/Inboxify/Wordpress/Settings.php:232
+msgid ""
+"Select the features you wish to enable this plugin for. Hold CTRL to enable "
+"multiple features."
+msgstr ""
+"Select the features you wish to enable this plugin for. Hold CTRL to enable "
+"multiple features."
+
+#: src/Inboxify/Wordpress/Settings.php:234
+msgid "Subscription checkbox title"
+msgstr "Subscription checkbox title"
+
+#: src/Inboxify/Wordpress/Settings.php:235
+#: src/Inboxify/Wordpress/Widget/Subscribe.php:635
+msgid "Newsletter subscription"
+msgstr "Newsletter subscription"
+
+#: src/Inboxify/Wordpress/Settings.php:236
+msgid ""
+"This text will be displayed as a title above subscription checkbox in the "
+"comment and registration forms."
+msgstr ""
+"This text will be displayed as a title above subscription checkbox in the "
+"comment and registration forms."
+
+#: src/Inboxify/Wordpress/Settings.php:238
+msgid "Subscription checkbox label"
+msgstr "Subscription checkbox label"
+
+#: src/Inboxify/Wordpress/Settings.php:239
+msgid "Subscribe"
+msgstr "Subscribe"
+
+#: src/Inboxify/Wordpress/Settings.php:240
+msgid "This text will be displayed as a label of the subscription checkbox."
+msgstr "This text will be displayed as a label of the subscription checkbox."
+
+#: src/Inboxify/Wordpress/Settings.php:242
+#: src/Inboxify/Wordpress/Widget/Subscribe.php:639
+msgid "Tags"
+msgstr "Tags"
+
+#: src/Inboxify/Wordpress/Settings.php:243
+#: src/Inboxify/Wordpress/Widget/Subscribe.php:638
+msgid ""
+"Comma separated list of default tags, that will be used to tag user during "
+"registration."
+msgstr ""
+"Comma separated list of default tags, that will be used to tag user during "
+"registration."
+
+#: src/Inboxify/Wordpress/Settings.php:245
+msgid "Cache TTL"
+msgstr "Cache TTL"
+
+#: src/Inboxify/Wordpress/Settings.php:246
+msgid ""
+"Time to live of local contact data for both modes. Please do not change this "
+"value unless you understand how this works."
+msgstr ""
+"Time to live of local contact data for both modes. Please do not change this "
+"value unless you understand how this works."
+
+#: src/Inboxify/Wordpress/Settings.php:286
+msgid "Comment form"
+msgstr "Comment form"
+
+#: src/Inboxify/Wordpress/Settings.php:287
+msgid "User profile form"
+msgstr "User profile form"
+
+#: src/Inboxify/Wordpress/Settings.php:288
+msgid "Registration form"
+msgstr "Registration form"
+
+#: src/Inboxify/Wordpress/Settings.php:289
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: src/Inboxify/Wordpress/Settings.php:290
+msgid "Widget"
+msgstr "Widget"
+
+#: src/Inboxify/Wordpress/Settings.php:374
+msgid "Select contact list"
+msgstr "Select contact list"
+
+#: src/Inboxify/Wordpress/Settings.php:385
+#, php-format
+msgid "Getting list of Contact Lists from Inboxify API failed (%s)."
+msgstr "Getting list of Contact Lists from Inboxify API failed (%s)."
+
+#: src/Inboxify/Wordpress/Settings.php:509
+msgid "Invalid End-Point URL."
+msgstr "Invalid End-Point URL."
+
+#: src/Inboxify/Wordpress/Shortcode.php:134
+msgid "Shortcode attribute widget_id is not set."
+msgstr "Shortcode attribute widget_id is not set."
+
+#: src/Inboxify/Wordpress/Shortcode.php:143
+#, php-format
+msgid "Widget id %d doesn't exist."
+msgstr "Widget id %d doesn't exist."
+
+#: src/Inboxify/Wordpress/Tag.php:57
+msgid "Generating Tag failed."
+msgstr "Generating Tag failed."
+
+#: src/Inboxify/Wordpress/Template.php:48
+#, php-format
+msgid "Converting template %s to string failed (%s)."
+msgstr "Converting template %s to string failed (%s)."
+
+#: src/Inboxify/Wordpress/Template.php:74
+msgid "Template not found."
+msgstr "Template not found."
+
+#: src/Inboxify/Wordpress/Template.php:94
+msgid "Template processing failed."
+msgstr "Template processing failed."
+
+#: src/Inboxify/Wordpress/Widget/Subscribe.php:363
+#: src/Inboxify/Wordpress/Widget/Subscribe.php:365
+msgid "Inboxify Sign Up Form widget"
+msgstr "Inboxify Sign Up Form widget"
+
+#: src/Inboxify/Wordpress/Widget/Subscribe.php:422
+msgid "Form Settings"
+msgstr "Form Settings"
+
+#: src/Inboxify/Wordpress/Widget/Subscribe.php:436
+msgid "Form Fields"
+msgstr "Form Fields"
+
+#: src/Inboxify/Wordpress/Widget/Subscribe.php:437
+msgid "Drag and drop the field to change their order."
+msgstr "Drag and drop the field to change their order."
+
+#: src/Inboxify/Wordpress/Widget/Subscribe.php:443
+msgid "Displayed"
+msgstr "Displayed"
+
+#: src/Inboxify/Wordpress/Widget/Subscribe.php:444
+msgid "Required"
+msgstr "Required"
+
+#: src/Inboxify/Wordpress/Widget/Subscribe.php:445
+msgid "Label"
+msgstr "Label"
+
+#: src/Inboxify/Wordpress/Widget/Subscribe.php:466
+msgid "To use this widget as shortcode use the following code:"
+msgstr "To use this widget as shortcode use the following code:"
+
+#: src/Inboxify/Wordpress/Widget/Subscribe.php:564
+msgid "Settings not found."
+msgstr "Settings not found."
+
+#: src/Inboxify/Wordpress/Widget/Subscribe.php:577
+msgid "Uninitialized widget."
+msgstr "Uninitialized widget."
+
+#: src/Inboxify/Wordpress/Widget/Subscribe.php:622
+msgid "Email"
+msgstr "Email"
+
+#: src/Inboxify/Wordpress/Widget/Subscribe.php:623
+msgid "Company"
+msgstr "Company"
+
+#: src/Inboxify/Wordpress/Widget/Subscribe.php:624
+msgid "First name"
+msgstr "First name"
+
+#: src/Inboxify/Wordpress/Widget/Subscribe.php:625
+msgid "Middle name"
+msgstr "Middle name"
+
+#: src/Inboxify/Wordpress/Widget/Subscribe.php:626
+msgid "Last name"
+msgstr "Last name"
+
+#: src/Inboxify/Wordpress/Widget/Subscribe.php:627
+msgid "Sex"
+msgstr "Sex"
+
+#: src/Inboxify/Wordpress/Widget/Subscribe.php:628
+msgid "Telephone"
+msgstr "Telephone"
+
+#: src/Inboxify/Wordpress/Widget/Subscribe.php:629
+msgid "Mobile"
+msgstr "Mobile"
+
+#: src/Inboxify/Wordpress/Widget/Subscribe.php:630
+msgid "Address"
+msgstr "Address"
+
+#: src/Inboxify/Wordpress/Widget/Subscribe.php:631
+msgid "Postal Code"
+msgstr "Postal Code"
+
+#: src/Inboxify/Wordpress/Widget/Subscribe.php:632
+msgid "City"
+msgstr "City"
+
+#: src/Inboxify/Wordpress/Widget/Subscribe.php:633
+msgid "Country"
+msgstr "Country"
+
+#: src/Inboxify/Wordpress/Widget/Subscribe.php:634
+msgid "Title"
+msgstr "Title"
+
+#: src/Inboxify/Wordpress/Widget/Subscribe.php:636
+msgid "Submit label"
+msgstr "Submit label"
+
+#: src/Inboxify/Wordpress/Widget/Subscribe.php:637
+msgid "Sign up"
+msgstr "Sign up"
+
+#: src/Inboxify/Wordpress/Widget/Subscribe.php:640
+msgid "HTML before sign up form"
+msgstr "HTML before sign up form"
+
+#: src/Inboxify/Wordpress/Widget/Subscribe.php:641
+msgid "HTML after sign up form"
+msgstr "HTML after sign up form"
+
+#: src/Inboxify/Wordpress/Widget/Subscribe.php:642
+msgid "This field is required."
+msgstr "This field is required."
+
+#: src/Inboxify/Wordpress/Widget/Subscribe.php:643
+msgid "Empty input field error"
+msgstr "Empty input field error"
+
+#: src/Inboxify/Wordpress/Widget/Subscribe.php:644
+msgid "Please correct the form errors."
+msgstr "Please correct the form errors."
+
+#: src/Inboxify/Wordpress/Widget/Subscribe.php:645
+msgid "Not valid form error"
+msgstr "Not valid form error"
+
+#: src/Inboxify/Wordpress/Widget/Subscribe.php:646
+msgid "You have been successfully signed up to our newsletter."
+msgstr "You have been successfully signed up to our newsletter."
+
+#: src/Inboxify/Wordpress/Widget/Subscribe.php:647
+msgid "Subscription success message"
+msgstr "Subscription success message"
+
+#: src/Inboxify/Wordpress/Widget/Subscribe.php:648
+msgid ""
+"We are terribly sorry, but due to an unexpected error we couldn't sign you "
+"up for our newsletter."
+msgstr ""
+"We are terribly sorry, but due to an unexpected error we couldn't sign you "
+"up for our newsletter."
+
+#: src/Inboxify/Wordpress/Widget/Subscribe.php:649
+msgid "Subscription error message"
+msgstr "Subscription error message"
+
+#: view/options.php:5
+msgid "Inboxify API Settings"
+msgstr "Inboxify API Settings"
+
+#: view/subscribe.php:15
+msgid "Inboxify Newsletter Subscription requires JavaScript."
+msgstr "Inboxify Newsletter Subscription requires JavaScript."
+
+#: view/subscribe.php:74
+msgid "Select Sex"
+msgstr "Select Sex"
+
+#: view/subscribe.php:75
+msgid "Male"
+msgstr "Male"
+
+#: view/subscribe.php:76
+msgid "Female"
+msgstr "Female"
+
+#~ msgid "Yes"
+#~ msgstr "Yes"
+
+msgid "No API credentials."
+msgstr "No API credentials."
+
+#~ msgid "Comment not found."
+#~ msgstr "Comment not found."
+
+#~ msgid "Invalid CAPTCHA plugin."
+#~ msgstr "Invalid CAPTCHA plugin."
+
+#~ msgid ""
+#~ "We are terribly sorry, but due to an unexpected error we couldn't sign "
+#~ "you up for your newsletter."
+#~ msgstr ""
+#~ "We are terribly sorry, but due to an unexpected error we couldn't sign "
+#~ "you up for your newsletter."
+
+#~ msgid "Inboxify API"
+#~ msgstr "Inboxify API"
+
+#~ msgid "Email label"
+#~ msgstr "Email label"
+
+#~ msgid "First name label"
+#~ msgstr "First name label"
+
+#~ msgid "First name displayed"
+#~ msgstr "First name displayed"
+
+#~ msgid "First name required"
+#~ msgstr "First name required"
+
+#~ msgid "Middle name label"
+#~ msgstr "Middle name label"
+
+#~ msgid "Middle name displayed"
+#~ msgstr "Middle name displayed"
+
+#~ msgid "Middle name required"
+#~ msgstr "Middle name required"
+
+#~ msgid "Last name label"
+#~ msgstr "Last name label"
+
+#~ msgid "Last name displayed"
+#~ msgstr "Last name displayed"
+
+#~ msgid "Last name required"
+#~ msgstr "Last name required"
+
+#~ msgid "You have been successfully signed up for our newsletter."
+#~ msgstr "You have been successfully signed up for our newsletter."
+
+msgid "Inboxify Shortcode Generator"
+msgstr "Inboxify Shortcode Generator"
+
+msgid "Insert"
+msgstr "Insert"
+
+msgid "Validating API credentials failed."
+msgstr "Validating API credentials failed."
+
+msgid "Contact list"
+msgstr "Contact list"
+
+msgid "Captcha Challenge"
+msgstr "Captcha Challenge"
+
+msgid "Allowed Tags"
+msgstr "Allowed Tags"
+
+msgid "Comma separated list of allowed tags for tags input."
+msgstr "Comma separated list of allowed tags for tags input."
+
+msgid "Tags Input"
+msgstr "Tags Input"
+
+msgid "Select how will users input tags."
+msgstr "Select how will users input tags."
+
+msgid "Custom Date"
+msgstr "Custom Date"
+
+msgid "API Status"
+msgstr "API Status"

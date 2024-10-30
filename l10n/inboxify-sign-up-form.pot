@@ -1,0 +1,267 @@
+#, fuzzy
+msgid "Inboxify Sign Up Form requires JavaScript."
+msgstr ""
+
+msgid "Inboxify API settings"
+msgstr ""
+
+msgid "Yes"
+msgstr ""
+
+msgid "Subscribe"
+msgstr ""
+
+msgid "Newsletter subscription"
+msgstr ""
+
+msgid "Uninitialized widget."
+msgstr ""
+
+msgid "Settings not found."
+msgstr ""
+
+msgid "Inboxify Sign Up Form"
+msgstr ""
+
+msgid "Template processing failed."
+msgstr ""
+
+msgid "Template not found."
+msgstr ""
+
+msgid "Converting template to string failed (%s)."
+msgstr ""
+
+msgid "Generating tag failed."
+msgstr ""
+
+msgid "No API credentials."
+msgstr ""
+
+msgid "Comment not found."
+msgstr ""
+
+msgid "Invalid CAPTCHA plugin."
+msgstr ""
+
+msgid "You must set CAPTCHA plugin before rendering or validating."
+msgstr ""
+
+msgid "This question is for testing whether or not you are a human visitor and to prevent automated spam submissions."
+msgstr ""
+
+msgid "Generating Really Simple CAPTCHA image failed."
+msgstr ""
+
+msgid "What code is in the image?"
+msgstr ""
+
+msgid "No CAPTCHA"
+msgstr ""
+
+msgid "We are terribly sorry, but due to an unexpected error we couldn't sign you up for your newsletter."
+msgstr ""
+
+msgid "You have been successfully signed up to our newsletter."
+msgstr ""
+
+msgid "This field is required."
+msgstr ""
+
+msgid "Inboxify Sign Up Form for WordPress"
+msgstr ""
+
+msgid "Inboxify API"
+msgstr ""
+
+msgid "General settings"
+msgstr ""
+
+msgid "Advanced settings"
+msgstr ""
+
+msgid "API endpoint"
+msgstr ""
+
+msgid "Inboxify API endpoint. Please don't change the URL unless you are instructed to."
+msgstr ""
+
+msgid "Insert your Inboxify API key."
+msgstr ""
+
+msgid "API key"
+msgstr ""
+
+msgid "Insert your Inboxify API secret."
+msgstr ""
+
+msgid "API secret"
+msgstr ""
+
+msgid "Please select the Inboxify list you want to use with WordPress."
+msgstr ""
+
+msgid "Default contact list"
+msgstr ""
+
+msgid "Please select one of the supported CAPTCHA plugins."
+msgstr ""
+
+msgid "CAPTCHA plugin"
+msgstr ""
+
+msgid "Select the features you wish to enable this plugin for. Hold CTRL to enable multiple features."
+msgstr ""
+
+msgid "Supported features"
+msgstr ""
+
+msgid "Time to live of local contact data for both modes. Please do not change this value unless you understand how this works."
+msgstr ""
+
+msgid "Cache TTL"
+msgstr ""
+
+msgid "Comment form"
+msgstr ""
+
+msgid "User profile form"
+msgstr ""
+
+msgid "Registration form"
+msgstr ""
+
+msgid "Shortcode"
+msgstr ""
+
+msgid "Widget"
+msgstr ""
+
+msgid "Title"
+msgstr ""
+
+msgid "Email label"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "First name label"
+msgstr ""
+
+msgid "First name"
+msgstr ""
+
+msgid "First name displayed"
+msgstr ""
+
+msgid "First name required"
+msgstr ""
+
+msgid "Middle name label"
+msgstr ""
+
+msgid "Middle name"
+msgstr ""
+
+msgid "Middle name displayed"
+msgstr ""
+
+msgid "Middle name required"
+msgstr ""
+
+msgid "Last name label"
+msgstr ""
+
+msgid "Last name"
+msgstr ""
+
+msgid "Last name displayed"
+msgstr ""
+
+msgid "Last name required"
+msgstr ""
+
+msgid "Submit label"
+msgstr ""
+
+msgid "HTML before sign up form"
+msgstr ""
+
+msgid "HTML after sign up form"
+msgstr ""
+
+msgid "Empty input field error"
+msgstr ""
+
+msgid "Not valid form error"
+msgstr ""
+
+msgid "Please correct the form errors."
+msgstr ""
+
+msgid "Subscription success message"
+msgstr ""
+
+msgid "You have been successfully signed up for our newsletter."
+msgstr ""
+
+msgid "Subscription error message"
+msgstr ""
+
+msgid "We are terribly sorry, but due to an unexpected error we couldn't sign you up for our newsletter."
+msgstr ""
+
+msgid "Subscription checkbox title"
+msgstr ""
+
+msgid "Subscription checkbox label"
+msgstr ""
+
+msgid "This text will be displayed as a label of the subscription checkbox."
+msgstr ""
+
+msgid "This text will be displayed as a title above subscription checkbox in the comment and registration forms."
+msgstr ""
+
+msgid "Select contact list"
+msgstr ""
+
+msgid "Inboxify Sign Up Form widget"
+msgstr ""
+
+msgid "Sign up"
+msgstr ""
+
+msgid "Inboxify Shortcode Generator"
+msgstr ""
+
+msgid "Insert"
+msgstr ""
+
+msgid "Validating API credentials failed."
+msgstr ""
+
+msgid "Contact list"
+msgstr ""
+
+msgid "Captcha Challenge"
+msgstr ""
+
+msgid "Allowed Tags"
+msgstr ""
+
+msgid "Comma separated list of allowed tags for tags input."
+msgstr ""
+
+msgid "Tags Input"
+msgstr ""
+
+msgid "Select how will users input tags."
+msgstr ""
+
+msgid "Custom Date"
+msgstr ""
+
+msgid "API Status"
+msgstr ""
